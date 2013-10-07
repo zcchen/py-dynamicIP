@@ -1,0 +1,8 @@
+This program is used for testing the client IP address and updating this
+address on server.
+
+It is a very simple program. The server.py is only worked on python3, and
+the client.py is worked on both python3 and python2. The client side is
+also working well with `nc` command.
+
+All config is in the file -- config.py.
